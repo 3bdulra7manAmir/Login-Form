@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="todo">TODO</string>
+    <string name="login">LOGIN</string>
+    <string name="password">Password</string>
+    <string name="password2">Password</string>
+    <string name="name">Name:</string>
+    <string name="name2">Name2:</string>
+    <string name="e_mail">E-mail</string>
+    <string name="e_mail2">E-mail2</string>
+</resources>
